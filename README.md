@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SydneyKing23
-- 👀 I’m interested in DAta Analysis and Data integration and security
+- 👀 I’m interested in Data Analysis and Data integration and security
 - 🌱 I’m currently learning Data Integration
 - 💞️ I’m looking to collaborate on data security
 - 📫 How to reach me ...
